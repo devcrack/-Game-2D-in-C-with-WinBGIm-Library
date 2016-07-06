@@ -1,0 +1,12 @@
+  "AYUDA"
+
+   Teclas:
+          Spacio= Disparo
+          Flechas=Direccion
+   El juego consiste en atrapar todos los heridos del
+   escenario y eliminar a todos los enemigos(fantasmas).
+   Una vez que ya se hayan atrapado todos los heridos
+   y eliminado todos los enemigos se pasa al siguiente 
+   nivel.El jugador Muere si toca al enemigo.
+   NOTA:Solo se cuenta con un maximo de 2 vidas
+                "PRESIONE ENTER"
